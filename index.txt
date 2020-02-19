@@ -14,7 +14,7 @@
 		</div>
 		<div class="box">Tres</div>
 		<div class="box">Quatro</div>
-		<div class="box b5">Cinco</div>
+		<div class="box">Cinco</div>
 	</div>
 </body>
 </html>
